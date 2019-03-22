@@ -8,7 +8,7 @@
 
 ## Android
 
-## Activity & Component & Context
+### Activity & Component & Context
 
 ### Thread & Communication
 
