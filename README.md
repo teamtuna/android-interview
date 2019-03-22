@@ -1,4 +1,4 @@
 # android-interview
 
-##RX
+RX
 - concatMap, switchMap, flatMap의 차이는 무엇인가요?
