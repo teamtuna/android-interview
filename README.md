@@ -38,7 +38,7 @@
 ### Thread & Communication
 
 ### UI
-- onMeasure와 onDraw의 차이는 무엇인가요?
+- onMeasure와 onDraw의 역할는 무엇인가요?
 
 ## Kotlin
 
