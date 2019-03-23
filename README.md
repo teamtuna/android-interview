@@ -15,7 +15,7 @@
 ## Java 일반
 - 자바 메모리 구조
 - LRU 알고리즘
-- Week Reference vs Soft Reference vs Strong Reference
+- Weak Reference vs Soft Reference vs Strong Reference
 - 가비지 컬렉터 란?
 - set, list, map 의 차이와 용도
 - hash 함수는 무엇인가요?
