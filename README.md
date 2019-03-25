@@ -40,13 +40,19 @@
 ## Android
 
 ### Activity & Component & Context
+- activity 사이에서 data 전달 방법은 무었이 있나요
+- 서로 다른 엡 사이에 data 전달 대하여 설명해 보세요
+- 잠깐 Background 전환된 사이에 Activity가 메모리 문제로 OS에 의해 죽었습니다. 해결방법은?
+- ContentProvider은 언제 사용하나요?
 
 ### Thread & Communication
 
 ### UI
 - onMeasure와 onDraw의 역할는 무엇인가요?
+- TouchEvent가 전달되는 순서를 설명해 보세요
 
 ## Kotlin
+- Scope Functions의 종류와 사용 사례를 들어주세요
 
 ## RX
 - concatMap, switchMap, flatMap의 차이는 무엇인가요?
