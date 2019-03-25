@@ -9,8 +9,14 @@
 - Concurrency 에 대해서 설명해 보세요
 - Rest API 에 대해서 설명해 보세요.
 - DI (dependency injection)
+- git 에서 conflict 가 일어나는 원인과 해결책을 설명해 보세요
+- git rebase 를 설명해 보세요.
+
 
 ### 보안
+- md5, sha1, sha256
+- 무차별 공격
+- side channel attack
 
 ## Java 일반
 - 자바 메모리 구조
