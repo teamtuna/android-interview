@@ -40,8 +40,7 @@
 ## Android
 
 ### Activity & Component & Context
-- activity 사이에서 data 전달 방법은 무었이 있나요
-- 서로 다른 엡 사이에 data 전달 대하여 설명해 보세요
+- activity 사이에서 data 전달 방법은 무엇이 있나요
 - 잠깐 Background 전환된 사이에 Activity가 메모리 문제로 OS에 의해 죽었습니다. 해결방법은?
 - ContentProvider은 언제 사용하나요?
 
