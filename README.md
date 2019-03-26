@@ -36,8 +36,11 @@
 - linkedList, arraylist 비교해 보세요
 - deep copy, shallow copy 
 - android sparseArray vs hashMap
+- Arrays.sort는 어떤 알고리즘을 쓰는가?
+- Serializable과 Parcelable의 차이는 무엇인가요?
 
 ## Android
+- 이미지 라이브러리인 Glide와 Picasso의 차이점은 무엇인가요?
 
 ### Activity & Component & Context
 - activity 사이에서 data 전달 방법은 무엇이 있나요
@@ -52,6 +55,7 @@
 
 ## Kotlin
 - Scope Functions의 종류와 사용 사례를 들어주세요
+- 코틀린이 자바보다 장점은 무엇인가요?
 
 ## RX
 - concatMap, switchMap, flatMap의 차이는 무엇인가요?
