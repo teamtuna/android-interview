@@ -66,3 +66,6 @@
 - flowable와 observable의 차이는 무엇인가요?
 - 핫옵저버블과 콜드옵저버블은 어떤건가요?
 - 구독 해지를 하려면 어떻게 해야하나요?
+
+## Build
+- Gradle에서 implementation 과 api 의 차이를 설명해주세요.
