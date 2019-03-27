@@ -41,8 +41,10 @@
 - Serializable과 Parcelable의 차이는 무엇인가요?
 
 ## Android
+- UUID 는 무엇이고, 어떤 용도로 쓰이는가?
 - 이미지 라이브러리인 Glide와 Picasso의 차이점은 무엇인가요?
 - 안드로이드 메모리 누수관리는 어떻게 할것인가?
+
 
 ### Activity & Component & Context
 - activity 사이에서 data 전달 방법은 무엇이 있나요
