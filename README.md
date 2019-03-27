@@ -58,7 +58,6 @@
 ## Kotlin
 - Scope Functions의 종류와 사용 사례를 들어주세요
 - 코틀린이 자바보다 장점은 무엇인가요?
-- let, apply, also, run, with의 용도와 차이점은 무엇인가요?
 
 ## RX
 - concatMap, switchMap, flatMap의 차이는 무엇인가요?
