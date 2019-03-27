@@ -66,6 +66,7 @@
 - flowable와 observable의 차이는 무엇인가요?
 - 핫옵저버블과 콜드옵저버블은 어떤건가요?
 - 구독 해지를 하려면 어떻게 해야하나요?
+- 스케쥴러의 종류와 용도를 설명해보세요. 쓰레드의 개수는? (new Thread, Computation, IO, 트램펄린, 싱글 스레드 스케쥴러)
 
 ## Build
 - Gradle에서 implementation 과 api 의 차이를 설명해주세요.
