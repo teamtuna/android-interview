@@ -69,3 +69,4 @@
 
 ## Build
 - Gradle에서 implementation 과 api 의 차이를 설명해주세요.
+- android build 속도를 높이기 위해 필요한 작업은 무엇이 있나요?
