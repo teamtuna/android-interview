@@ -45,7 +45,7 @@
 - 이미지 라이브러리인 Glide와 Picasso의 차이점은 무엇인가요?
 - 안드로이드 메모리 누수관리는 어떻게 할것인가?
 - Room과 Realm 비교해 보세요
-- 4대 컴포넌트 (Activity, Service, BroadcastReceiver, ContentProvider)를 
+- 4대 컴포넌트 (Activity, Service, BroadcastReceiver, ContentProvider)를 설명해 보세요
 
 
 ### Activity & Component & Context
