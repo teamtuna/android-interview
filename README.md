@@ -49,6 +49,11 @@
 - 안드로이드 메모리 누수관리는 어떻게 할것인가?
 - Room과 Realm 비교해 보세요
 - 4대 컴포넌트 (Activity, Service, BroadcastReceiver, ContentProvider)를 설명해 보세요
+- 안드로이드 실행환경에 대해서 간단하게 설명하시오.
+- 안드로이드는 다른 플랫폼에 비해 어떤 장점이 있는가?
+- 인플레이션(inflation)이란 무엇인가요?
+- 액티비티가 무엇이고 액티비티 생명주기는 어떻게되나요?
+- application과 context에 
 
 
 ### Activity & Component & Context
