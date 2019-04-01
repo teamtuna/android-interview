@@ -74,6 +74,11 @@
 ## Kotlin
 - Scope Functions의 종류와 사용 사례를 들어주세요
 - 코틀린이 자바보다 장점은 무엇인가요?
+- @JvmOverloads 어노테이션은 무엇인가요?
+- @JvmField 어노테이션은 무엇인가요?
+- let, run, with, apply, also 키워드에 대해서 설명해 보세요.
+- 지연 초기화 기법 (lazy, lateinit)을 설명해 보세요.
+- 확장함수란? 사용 예는 어떤 것이 있을까?
 
 ## RX
 - concatMap, switchMap, flatMap의 차이는 무엇인가요?
