@@ -77,3 +77,8 @@
 ## Build
 - Gradle에서 implementation 과 api 의 차이를 설명해주세요.
 - android build 속도를 높이기 위해 필요한 작업은 무엇이 있나요?
+
+## 테스트
+- 테스트의 종류에 대해서 아는 대로 설명해주세요.
+- Unit 테스트는 왜 하는가?
+- 안드로이드 폴더 구조에서 AndroidTest 와 Test 폴더에 대해서 설명해주세요.
