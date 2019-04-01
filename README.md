@@ -53,7 +53,10 @@
 - 안드로이드는 다른 플랫폼에 비해 어떤 장점이 있는가?
 - 인플레이션(inflation)이란 무엇인가요?
 - 액티비티가 무엇이고 액티비티 생명주기는 어떻게되나요?
-- application과 context에 
+- application과 context에 대해서 설명해보세요
+- task란 무엇인가요?
+- 액티비티 하위 호환성에 대한 패키지 또는 라이브러리를 설명해보세요.
+- Jetpack이란 무엇인가요? 
 
 
 ### Activity & Component & Context
