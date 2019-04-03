@@ -60,13 +60,18 @@
 - Jetpack이란 무엇인가요? 
 - AsyncTask를 써야한다면 반드시 구현해야되는 부분은 무엇인가요? 그리고 다른 비동기 스레드 처리방식과 비교하여 장단점은 무엇인가요?
 - 액티비티 스택이 무엇인지 설명해주세요.
+- png와 jpg, bmp의 차이에 대해서 설명해주세요.
 
 ### Activity & Component & Context
 - activity 사이에서 data 전달 방법은 무엇이 있나요
 - 잠깐 Background 전환된 사이에 Activity가 메모리 문제로 OS에 의해 죽었습니다. 해결방법은?
 - ContentProvider은 언제 사용하나요?
+- onPause와 onStop이 호출되는 시점의 차이는 무엇인가요?
+- 안드로이드의 context는 무엇인가요?
 
 ### Thread & Communication
+- 사이드 이펙트에 대해서 설명해주세요
+- 데드락에 대해서 설명해주세요
 
 ### UI
 - onMeasure와 onDraw의 역할는 무엇인가요?
