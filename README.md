@@ -42,6 +42,7 @@
 - android sparseArray vs hashMap
 - Arrays.sort는 어떤 알고리즘을 쓰는가?
 - Serializable과 Parcelable의 차이는 무엇인가요?
+- 블럭, 넌블럭, 동기, 비동기에 대해서 설명
 
 ## Android
 - UUID 는 무엇이고, 어떤 용도로 쓰이는가?
