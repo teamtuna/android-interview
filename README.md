@@ -85,6 +85,10 @@
 - let, run, with, apply, also 키워드에 대해서 설명해 보세요.
 - 지연 초기화 기법 (lazy, lateinit)을 설명해 보세요.
 - 확장함수란? 사용 예는 어떤 것이 있을까?
+- inline 키워드는 어떤 역할을 하고 어떻때 사용하나요?
+- infix 키워드는 어떤 역할을 하고 어떻때 사용하나요?
+- operator 키워드는 어떤 역할을 하고 어떻때 사용하나요?
+- sealed class의 특징과 사용법을 설명해 보세요
 
 ## RX
 - concatMap, switchMap, flatMap의 차이는 무엇인가요?
