@@ -90,6 +90,8 @@
 - infix 키워드는 어떤 역할을 하고 어떻때 사용하나요?
 - operator 키워드는 어떤 역할을 하고 어떻때 사용하나요?
 - sealed class의 특징과 사용법을 설명해 보세요
+- kotlin과 java 의 inner class 차이를 설명해 보세요.
+- internal 키워드는?
 
 ## RX
 - concatMap, switchMap, flatMap의 차이는 무엇인가요?
