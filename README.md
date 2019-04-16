@@ -1,7 +1,7 @@
 # android-interview
 
 ## Software Enginnering
-- lean 개발 방식이란?
+- lean 스타트 개발 방식이란?
 - TDD란?
 - DDD란?
 - AB Test 란?
@@ -98,10 +98,15 @@
 - 핫옵저버블과 콜드옵저버블은 어떤건가요?
 - 구독 해지를 하려면 어떻게 해야하나요?
 - 스케쥴러의 종류와 용도를 설명해보세요. 쓰레드의 개수는? (new Thread, Computation, IO, 트램펄린, 싱글 스레드 스케쥴러)
+- disposable 관리는 어떻게 해야 하나?
+- launch 와 runBlocking 의 차이는?
+- 이미 비동기로 설계된 api 를 coroutine 으로 감싸는 방법은?
 
 ## Build
 - Gradle에서 implementation 과 api 의 차이를 설명해주세요.
 - android build 속도를 높이기 위해 필요한 작업은 무엇이 있나요?
+- D8, R8 은 무엇인가?
+- 프로덕션, 테스트 앱을 분리/설치 하는 방법은?
 
 ## 테스트
 - 테스트의 종류에 대해서 아는 대로 설명해주세요.
