@@ -103,7 +103,7 @@
 - disposable 관리는 어떻게 해야 하나?
 - launch 와 runBlocking 의 차이는?
 - 이미 비동기로 설계된 api 를 coroutine 으로 감싸는 방법은?
-- RX에서 Observable사용후에 메모리 누수방지를 위해서 어떻게 해야할까요?
+- RX에서 Observable 사용 후에 메모리 누수 방지를 위해서 어떻게 해야 할까요?
 - CompositeDisposable에서 dispose()와 clear()의 차이는 무엇인가요?
 
 ## Build
