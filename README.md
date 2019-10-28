@@ -116,3 +116,4 @@
 - 테스트의 종류에 대해서 아는 대로 설명해주세요.
 - Unit 테스트는 왜 하는가?
 - 안드로이드 폴더 구조에서 AndroidTest 와 Test 폴더에 대해서 설명해주세요.
+- ViewMdoel 을 테스트에 대해서 설명해 주세요. (liveData, Observable)
