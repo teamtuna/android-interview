@@ -93,7 +93,7 @@
 - kotlin과 java 의 inner class 차이를 설명해 보세요.
 - internal 키워드는?
 
-## RX
+## RX / Coroutine
 - concatMap, switchMap, flatMap의 차이는 무엇인가요?
 - subject와 observable의 차이는 무엇인가요?
 - flowable와 observable의 차이는 무엇인가요?
@@ -101,10 +101,10 @@
 - 구독 해지를 하려면 어떻게 해야하나요?
 - 스케쥴러의 종류와 용도를 설명해보세요. 쓰레드의 개수는? (new Thread, Computation, IO, 트램펄린, 싱글 스레드 스케쥴러)
 - disposable 관리는 어떻게 해야 하나?
-- launch 와 runBlocking 의 차이는?
-- 이미 비동기로 설계된 api 를 coroutine 으로 감싸는 방법은?
 - RX에서 Observable 사용 후에 메모리 누수 방지를 위해서 어떻게 해야 할까요?
 - CompositeDisposable에서 dispose()와 clear()의 차이는 무엇인가요?
+- launch 와 runBlocking 의 차이는?
+- 이미 비동기로 설계된 api 를 coroutine 으로 감싸는 방법은?
 
 ## Build
 - Gradle에서 implementation 과 api 의 차이를 설명해주세요.
